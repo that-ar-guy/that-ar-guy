@@ -10,6 +10,11 @@
 - 👨‍💻 All of my projects are available at [https://that-ar-guy.github.io/Portfolio-website/](https://that-ar-guy.github.io/Portfolio-website/)
 
 - 📫 How to reach me **mohdarahman124@gmail.com**
+  
+
+
+![](https://leetcard.jacoblin.cool/that-ar-guy?ext=heatmap)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
