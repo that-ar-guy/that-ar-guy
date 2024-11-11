@@ -13,7 +13,15 @@
   
 
 
-![](https://leetcard.jacoblin.cool/that-ar-guy?ext=heatmap)
+![My Leetcode Profile](https://leetcard.jacoblin.cool/that-ar-guy?ext=heatmap)  
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=that-ar-guy&theme=github&bg_color=0d1117&color=39d353&line=39d353&point=FFFFFF&hide_border=true)](https://github.com/YOUR_USERNAME)
+
+![My Opensource Profile](https://github-readme-stats.vercel.app/api?username=that-ar-guy&show_icons=true&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com?user=that-ar-guy&theme=dark&hide_border=true)
+
+
+
 
 
 <h3 align="left">Connect with me:</h3>
