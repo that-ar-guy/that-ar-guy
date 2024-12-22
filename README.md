@@ -11,9 +11,13 @@
 
 - 📫 How to reach me **mohdarahman124@gmail.com**
 
+- **Contributions to Open Source**:  
+  - [Azure PSrules](https://github.com/Azure/PSRule.Rules.Azure)
+    
+  - [Open Edx](https://github.com/openedx/tutor-contrib-aspects)  
+
 - ![](https://komarev.com/ghpvc/?username=that-ar-guy)
   
-![My Leetcode Profile](https://leetcard.jacoblin.cool/that-ar-guy?ext=heatmap)  
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=that-ar-guy&theme=github&bg_color=0d1117&color=39d353&line=39d353&point=FFFFFF&hide_border=true)](https://github.com/YOUR_USERNAME)
 
