@@ -7,7 +7,7 @@
 
 - 🤝 I’m looking for help with **MY portfolio**
 
-- 👨‍💻 All of my projects are available at [https://that-ar-guy.github.io/Portfolio-website/](https://that-ar-guy.github.io/Portfolio-website/)
+- 👨‍💻 All of my projects are available at [https://that-ar-guy.github.io/Portfolio-website/](https://that-ar-guy.github.io/website/)
 
 - 📫 How to reach me **mohdarahman124@gmail.com**
 
