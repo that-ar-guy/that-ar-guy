@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **[Study Sphere](https://github.com/that-ar-guy/StudySphere)**
 
-- 🌱 I’m currently learning *opencv*
+- 🌱 I’m currently learning **opencv**
 
 - 🤝 I’m looking for help with **MY portfolio**
 
