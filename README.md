@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **mohdarahman124@gmail.com**
 
-# Honourable Contributions to Open Source
+## Honourable Contributions to Open Source
 
 <table align="center">
   <tr>
@@ -37,6 +37,11 @@
    </td>
   </tr>
 </table>
+
+<a href="https://github.com/ryo-ma/github-profile-trophy"><h2>🏆 Github Profile Trophy</h2></a>
+<a href="https://github.com/that-ar-guy">
+  <img width=800 src="https://github-profile-trophy.vercel.app/?username=that-ar-guy&column=10&theme=darkhub&no-frame=true"/>
+</a>
 
 
  ![PROFILE VIEWS](https://komarev.com/ghpvc/?username=that-ar-guy)
