@@ -46,12 +46,12 @@
 
  ![PROFILE VIEWS](https://komarev.com/ghpvc/?username=that-ar-guy)
   
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=that-ar-guy&theme=github&bg_color=0d1117&color=39d353&line=39d353&point=FFFFFF&hide_border=true)](https://github.com/that-ar-guy)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=that-ar-guy&theme=github&bg_color=0d1117&color=39d353&line=39d353&point=FFFFFF&hide_border=true)](https://github.com/YOUR_USERNAME)
-
-![My Opensource Profile](https://github-readme-stats.vercel.app/api?username=that-ar-guy&show_icons=true&theme=radical)
-![GitHub Streak](https://streak-stats.demolab.com?user=that-ar-guy&theme=dark&hide_border=true)
-
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=that-ar-guy&show_icons=true&theme=radical" height="180px"/>
+  <img src="https://streak-stats.demolab.com?user=that-ar-guy&theme=dark&hide_border=true" height="180px"/>
+</div>
 
 
 <h2 align="left">Connect with me:</h2>
