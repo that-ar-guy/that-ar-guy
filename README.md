@@ -25,7 +25,14 @@
    <td align="center">
       <a href="https://github.com/Azure/PSRule.Rules.Azure/pull/3188">
         <img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/Microsoft_Azure_Logo.svg" width="80px" height="80px" />
-        <br /><sub><b>Azure PSRule</b></sub>
+        <br /><sub><b>Azure PSRule (#3188)</b></sub>
+      </a>
+    </td>
+
+   <td align="center">
+      <a href="https://github.com/Azure/PSRule.Rules.Azure/pull/3220">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/Microsoft_Azure_Logo.svg" width="80px" height="80px" />
+        <br /><sub><b>Azure PSRule (#3220)</b></sub>
       </a>
     </td>
 
