@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohammed Abdul Rahman</h1>
 <h3 align="center">Passionate and Insane </h3>
 
-- 🔭 I’m currently working on **[Study Sphere](https://github.com/that-ar-guy/StudySphere)**
 
 - 🌱 I’m currently learning **opencv**
 
