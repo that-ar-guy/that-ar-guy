@@ -35,6 +35,13 @@
       </a>
     </td>
 
+  <td align="center">
+      <a href="https://github.com/Azure/PSRule.Rules.Azure/pull/3276">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/Microsoft_Azure_Logo.svg" width="80px" height="80px" />
+        <br /><sub><b>Azure PSRule (#3276)</b></sub>
+      </a>
+    </td>
+
    <td align="center">
       <a href="https://github.com/openedx/tutor-contrib-aspects/pull/1002">
         <img src="https://github.com/user-attachments/assets/6aa4411b-4500-43e6-bfc5-52076b4607fd" width="80px" height="80px" />
