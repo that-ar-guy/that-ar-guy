@@ -17,21 +17,21 @@
     <td align="center">
       <a href="https://github.com/numpy/numpy/pull/28100">
         <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" width="80px" height="80px" />
-        <br /><sub><b>NumPy</b></sub>
+        <br /><sub><b>NumPy(28100) </b></sub>
       </a>
     </td>
     
    <td align="center">
       <a href="https://github.com/Azure/PSRule.Rules.Azure/pull/3188">
         <img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/Microsoft_Azure_Logo.svg" width="80px" height="80px" />
-        <br /><sub><b>Azure PSRule (#3188)</b></sub>
+        <br /><sub><b>Azure PSRule (3188)</b></sub>
       </a>
     </td>
 
    <td align="center">
       <a href="https://github.com/Azure/PSRule.Rules.Azure/pull/3220">
         <img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/Microsoft_Azure_Logo.svg" width="80px" height="80px" />
-        <br /><sub><b>Azure PSRule (#3220)</b></sub>
+        <br /><sub><b>Azure PSRule (3220)</b></sub>
       </a>
     </td>
 
@@ -43,7 +43,7 @@
      <td align="center">
       <a href="https://github.com/openedx/tutor-contrib-aspects/pull/1002">
         <img src="https://github.com/user-attachments/assets/6aa4411b-4500-43e6-bfc5-52076b4607fd" width="80px" height="80px" />
-        <br /><sub><b>Open edX</b></sub>
+        <br /><sub><b>Open edX(1002)</b></sub>
       </a>
    </td>
      <td align="center">
@@ -58,6 +58,17 @@
         <br /><sub><b>Scipy(23201)</b></sub>
       </a>
     </td>
+  </tr>
+  <tr>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/numpy/numpy/pull/29254">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" width="80px" height="80px" />
+        <br /><sub><b>NumPy(29254)</b></sub>
+      </a>
+    </td>
+    
   </tr>
 </table>
 
